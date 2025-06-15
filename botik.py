@@ -4,7 +4,7 @@ from handlers import router_handlers
 from states import router_state
 
 #создание экземпляра бота
-bot = Bot(token="8140173668:AAG9kiA0f22gv_7p-Z4-Hk-y2GYykQ8EsXE")
+bot = Bot(token=" ")
 dp = Dispatcher()
 #запуск
 async def main():
